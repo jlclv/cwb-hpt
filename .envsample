@@ -1,0 +1,8 @@
+search_endpoint = "<YOUR-AZURE-AI-SEARCH-ENDPOINT>"
+index_name = "<NAME-OF-INDEX>"
+search_api_key="<YOUR-SEARCH-API-KEY>"
+openapi_key = "<YOUR-OPEN-AI-API-KEY>"
+
+translate_endpoint = "<YOUR-AZURE-TRANSLATION-ENDPOINT>"
+translate_api_key = "<YOUR-AZURE-TRANSLATION-API-KEY>"
+translate_region = "eastus"
